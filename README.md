@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Terry Kuo</h1>
 <h3 align="center">A passionate iOS developer from Taiwan</h3>
+<h4 align="center">If you like my work, please give it a star, and. welcome to add new features to it!</h4>
 
 
 
