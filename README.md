@@ -46,6 +46,10 @@ g
   <a href="https://stackoverflow.com/users/14958467/yoyokuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yoyokuoo_tfc" height="30" width="40" /></a>
   <a href="https://soundcloud.com/argonyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="yoyokuoo_tfc" height="30" width="40" /></a>
   <a href="https://yoyokuo.tumblr.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" alt="yoyokuoo_tfc" height="30" width="40" /></a>
+  <a href="https://dribbble.com/Universeye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="yoyokuoo_tfc" height="30" width="40" /></a>
+  <a href="https://dev.to/universeye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yoyokuoo_tfc" height="30" width="40" /></a>
+  
+
  
 </p>
 
