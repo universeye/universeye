@@ -12,6 +12,7 @@ g
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a align="center"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="argonyoyo" height="30" width="40" /></a>
 <h1 align="center">Hi 👋, I'm Terry Kuo</h1>
 <h3 align="center">A passionate iOS developer from Taiwan</h3>
 <h4 align="center">If you like my work, please give it a star, and welcome to add new features!</h4>
@@ -30,6 +31,16 @@ g
 <p align="left">
 <a href="https://twitter.com/argonyoyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="argonyoyo" height="30" width="40" /></a>
 <a href="https://instagram.com/yoyokuoo_tfc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yoyokuoo_tfc" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100000455413569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yoyokuoo_tfc" height="30" width="40" /></a>
+  <a href="https://www.twitch.tv/yoyokuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="yoyokuoo_tfc" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCuafBQTj7JGByhzVuMhcOZg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yoyokuoo_tfc" height="30" width="40" /></a>
+  <a href="https://discord.gg/rZu2p2Pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yoyokuoo_tfc" height="30" width="40" /></a>
+  <a href="https://open.spotify.com/user/ltzmrhuinf0hdjevtvqt91hik?si=1a8fbc38514643a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="yoyokuoo_tfc" height="30" width="40" /></a>
+  <a href="https://www.reddit.com/user/universeye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="yoyokuoo_tfc" height="30" width="40" /></a>
+  <a href="https://open.spotify.com/user/ltzmrhuinf0hdjevtvqt91hik?si=1a8fbc38514643a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="yoyokuoo_tfc" height="30" width="40" /></a>
+  
+  
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
