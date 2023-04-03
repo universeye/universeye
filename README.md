@@ -15,15 +15,14 @@ g
 <a align="center"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="argonyoyo" height="30" width="40" /></a>
 <h1 align="center">Hi 👋, I'm Terry Kuo</h1>
 <h3 align="center">A passionate iOS developer from Taiwan</h3>
-<h4 align="center">If you like my work, please give it a star, and welcome to add new features!</h4>
 <h4 align="center">I am currently developing mostly for iOS with some .Net Core on the side.</h4>
 <h4 align="center">My main project is currently Yosum, which is an app tracking one's subscription every month or year.</h4>
+<h4 align="center">If you like my work, please give it a star, and welcome to add new features!</h4>
 
 
+ </p><p align="left"> <img src="https://komarev.com/ghpvc/?username=universeye&label=Profile%20views&color=0e75b6&style=flat" alt="universeye" /> </p>
 
-<p align="left"> <a href="https://twitter.com/argonyoyo" target="blank"><img src="https://img.shields.io/twitter/follow/argonyoyo?logo=twitter&style=for-the-badge" alt="argonyoyo" /></a> </p><p align="left"> <img src="https://komarev.com/ghpvc/?username=universeye&label=Profile%20views&color=0e75b6&style=flat" alt="universeye" /> </p>
-
-- 🌱 I’m currently learning **Combine Framworks!**
+- 🌱 I’m currently learning **Obj-C! **
 
 - 💬 Ask me about **anything!**
 
@@ -76,6 +75,8 @@ g
 
 
 <!--
+
+<p align="left"> <a href="https://twitter.com/argonyoyo" target="blank"><img src="https://img.shields.io/twitter/follow/argonyoyo?logo=twitter&style=for-the-badge" alt="argonyoyo" /></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=universeye" alt="universeye" /></a> </p>
   <a href="https://www.facebook.com/profile.php?id=100000455413569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yoyokuoo_tfc" height="30" width="40" /></a>
   <a href="https://www.twitch.tv/yoyokuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="yoyokuoo_tfc" height="30" width="40" /></a>
