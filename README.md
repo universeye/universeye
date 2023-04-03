@@ -22,7 +22,7 @@ g
 
  </p><p align="left"> <img src="https://komarev.com/ghpvc/?username=universeye&label=Profile%20views&color=0e75b6&style=flat" alt="universeye" /> </p>
 
-- 🌱 I’m currently learning **Obj-C! **
+- 🌱 I’m currently learning **Obj-C!**
 
 - 💬 Ask me about **anything!**
 
