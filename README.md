@@ -19,8 +19,10 @@ g
 <h4 align="center">My main project is currently Yosum, which is an app tracking one's subscription every month or year.</h4>
 <h4 align="center">If you like my work, please give it a star, and welcome to add new features!</h4>
 
+<h3 align="left">My App: Yosum </h3>
 
- </p><p align="left"> <img src="https://komarev.com/ghpvc/?username=universeye&label=Profile%20views&color=0e75b6&style=flat" alt="universeye" /> </p>
+https://apps.apple.com/app/yosum/id6451242119
+
 
 - 🌱 I’m currently learning **Obj-C!**
 
@@ -72,7 +74,7 @@ g
   <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg" alt="Xcode" width=10% height=10%/> </a>
 <a href="https://wordpress.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> </a></p>
 
-
+</p><p align="left"> <img src="https://komarev.com/ghpvc/?username=universeye&label=Profile%20views&color=0e75b6&style=flat" alt="universeye" /> </p>
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=universeye&show_icons=true&locale=en" alt="universeye" />
