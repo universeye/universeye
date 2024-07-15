@@ -19,13 +19,15 @@ g
 <h4 align="center">My main project is currently Yosum, which is an app tracking one's subscription every month or year.</h4>
 <h4 align="center">If you like my work, please give it a star, and welcome to add new features!</h4>
 
-<h3 align="left">My App: Yosum </h3>
+<h3 align="left"> My App: Yosum: Subscription Manager </h3>
 
 <a href="https://apps.apple.com/us/app/yosum-subscription-manager/id6451242119?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1698883200" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 <img src= "yosum app store preview 1.1.png" width = 20% height = 20%> <img src= "yosum app store preview 2.png" width = 20% height = 20%> <img src= "iCloud Sync Mock Up Iphone.jpeg" width = 20% height = 20%>
 
-<h3 align="left"> TuneTally </h3>
+<h3 align="left"> TuneTally: Music Charts </h3>
+
+<a href="https://apps.apple.com/us/app/tunetally-music-charts/id6475619227?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1716249600" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 <img src= "tunetally_preview_1.png" width = 20% height = 20%> <img src= "tunetally_preview_2.png" width = 20% height = 20%> <img src= "tunetally_preview_3.png" width = 20% height = 20%>
 
