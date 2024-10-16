@@ -21,13 +21,13 @@ g
 
 <h3 align="left"> My App: Yosum: Subscription Manager </h3>
 
-<a href="https://apps.apple.com/us/app/yosum-subscription-manager/id6451242119?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1698883200" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+[Download on the App Store](https://apple.co/3QGAhfi)
 
-<img src= "yosum app store preview 1.1.png" width = 20% height = 20%> <img src= "yosum app store preview 2.png" width = 20% height = 20%> <img src= "iCloud Sync Mock Up Iphone.jpeg" width = 20% height = 20%>
+<img src="yosum app store preview 1.1.png" width="20%" height="20%"> <img src="yosum app store preview 2.png" width="20%" height="20%"> <img src="iCloud Sync Mock Up Iphone.jpeg" width="20%" height="20%">
 
 <h3 align="left"> TuneTally: Music Charts </h3>
 
-<a href="https://apps.apple.com/us/app/tunetally-music-charts/id6475619227?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 80px; height: 26.56px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1716249600" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a> <a href="https://apps.apple.com/us/app/tunetally-music-charts/id6475619227?itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/27/1e/cb271eed-b696-dfb1-4ac5-2d236cfe1e48/AppIcon-0-0-1x_U007ephone-0-85-220.png/540x540bb.jpg" alt="TuneTally: Music Charts" style="width: 120px; height: 120px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+[Download on the App Store](https://apple.co/3LZUwCX)
 
 <img src= "tunetally_preview_1.png" width = 20% height = 20%> <img src= "tunetally_preview_2.png" width = 20% height = 20%> <img src= "tunetally_preview_3.png" width = 20% height = 20%>
 
