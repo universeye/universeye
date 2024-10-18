@@ -15,8 +15,8 @@ g
 <a align="center"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="argonyoyo" height="30" width="40" /></a>
 <h1 align="center">Hi 👋, I'm Terry Kuo</h1>
 <h3 align="center">A passionate iOS developer from Taiwan</h3>
-<h4 align="center">I am currently developing mostly for iOS with some .Net Core on the side.</h4>
-<h4 align="center">My main project is currently Yosum, which is an app tracking one's subscription every month or year.</h4>
+<h4 align="center">I am currently developing mostly for iOS with some Flutter on the side.</h4>
+<h4 align="center">My "main" side projects are currently Yosum (an app tracks one's subscription every month or year) & TuneTally (an app track global music charts across different services & countries) </h4>
 <h4 align="center">If you like my work, please give it a star, and welcome to add new features!</h4>
 
 <h3 align="left"> My App: Yosum: Subscription Manager </h3>
@@ -31,7 +31,9 @@ g
 
 <img src= "tunetally_preview_1.png" width = 20% height = 20%> <img src= "tunetally_preview_2.png" width = 20% height = 20%> <img src= "tunetally_preview_3.png" width = 20% height = 20%>
 
-- 🌱 I’m currently learning **Obj-C!**
+<!--
+- 🌱 I’m currently learning **Flutter!**
+-->
 
 - 💬 Ask me about **anything!**
 
@@ -51,12 +53,12 @@ g
 
 
 
-
+<!--
 <p>&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=universeye&" alt="universeye" /></p>
 
 <p>
   </p><p align="left"> <img src="https://komarev.com/ghpvc/?username=universeye&label=Profile%20views&color=0e75b6&style=flat" alt="universeye" /> </p>
-<!--
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
