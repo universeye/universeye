@@ -23,13 +23,13 @@ g
 
 [Download on the App Store](https://apple.co/3QGAhfi)
 
-<img src="yosum app store preview 1.1.png" width="20%" height="20%"> <img src="yosum app store preview 2.png" width="20%" height="20%"> <img src="iCloud Sync Mock Up Iphone.jpeg" width="20%" height="20%">
+<img src="yosum app store preview 1.1.png" width="15%" height="15%"> <img src="yosum app store preview 2.png" width="15%" height="15%"> <img src="iCloud Sync Mock Up Iphone.jpeg" width="15%" height="15%"> <img src="defaultSubscription2.jpeg" width="15%" height="15%"> <img src="yosum app store preview 4.png" width="15%" height="15%">
 
 <h3 align="left"> TuneTally: Music Charts </h3>
 
 [Download on the App Store](https://apple.co/3LZUwCX)
 
-<img src= "tunetally_preview_1.png" width = 20% height = 20%> <img src= "tunetally_preview_2.png" width = 20% height = 20%> <img src= "tunetally_preview_3.png" width = 20% height = 20%>
+<img src= "tunetally_preview_1.png" width = 15% height = 15%> <img src= "tunetally_preview_4.jpeg" width = 15% height = 15%> <img src= "tunetally_preview_3.png" width = 15% height = 15%>
 
 <!--
 - 🌱 I’m currently learning **Flutter!**
@@ -42,7 +42,7 @@ g
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yoyokuoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="argonyoyo" height="30" width="40" /></a>
-<a href="https://instagram.com/yoyokuoo_tfc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yoyokuoo_tfc" height="30" width="40" /></a>
+
 
 
 
@@ -55,7 +55,7 @@ g
 
 <!--
 <p>&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=universeye&" alt="universeye" /></p>
-
+<a href="https://instagram.com/yoyokuoo_tfc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yoyokuoo_tfc" height="30" width="40" /></a>
 <p>
   </p><p align="left"> <img src="https://komarev.com/ghpvc/?username=universeye&label=Profile%20views&color=0e75b6&style=flat" alt="universeye" /> </p>
 
